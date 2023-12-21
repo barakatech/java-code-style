@@ -1,6 +1,6 @@
 # java-code-style
 
-A fork from Google's Java codestyle with a couple of modifications.
+A fork from [Google's Java codestyle](https://github.com/google/styleguide) with a couple of modifications.
 
 ### Modifications
 - [x] 4 spaces indentation instead of 2
