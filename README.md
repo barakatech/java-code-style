@@ -1,4 +1,5 @@
-# java-code-style -- Baraka's Java codestyle
+# java-code-style
+### Baraka's Java codestyle
 
 A fork from [Google's Java codestyle](https://github.com/google/styleguide) with a couple of modifications.
 
