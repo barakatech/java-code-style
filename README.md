@@ -9,7 +9,7 @@ A fork from Google's Java codestyle with a couple of modifications.
 
 
 ### Usage
-- Clone this repo
+- Clone this repo or download raw [GoogleStyle.xml](https://github.com/barakatech/java-code-style/blob/main/GoogleStyle.xml)
 - Go to `Settings > Editor > Code Style > Java`
 - Click on the gear icon and select `Import Scheme > IntelliJ IDEA code style XML`
 ![image](usage.png)
