@@ -6,3 +6,13 @@ A fork from Google's Java codestyle with a couple of modifications.
 - [x] 4 spaces indentation instead of 2
 - [x] 120 characters line length instead of 100
 - [x] Imports before static imports
+
+
+### Usage
+- Clone this repo
+- Go to `Settings > Editor > Code Style > Java`
+- Click on the gear icon and select `Import Scheme > IntelliJ IDEA code style XML`
+![image](usage.png)
+
+### TODO
+- [ ] Add codestyle for other IDEs
